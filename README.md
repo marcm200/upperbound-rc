@@ -23,7 +23,7 @@ Parameters: see short helppage calling the software without command line paramet
 <br>upperbound-rc lenm=16 lent=15 p123
 <br>upperbound-rc lenm=17 lent=15 p123
 <br>upperbound-rc lenm=18 lent=15
-<br>upperbound-rc lenm=18 lent=15 skipless=2500 
+<br>upperbound-rc lenm=19 lent=15 skipless=2500 
 <br>upperbound-rc lenm=20 lent=15 save=raw skipless=2500
 
 
